@@ -1,5 +1,7 @@
 # Memory Card Game
 
+![matching card](https://github.com/user-attachments/assets/9a45f138-6e73-4ff8-a61a-d01871f9a8aa)
+
 ## Overview
 A simple memory card game built with HTML, CSS, and JavaScript.
 
