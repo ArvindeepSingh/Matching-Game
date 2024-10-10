@@ -17,6 +17,9 @@ A simple memory card game built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+## Live Demo
+You can play the game [here](https://matching-game-arvindeep-singh.netlify.app).
+
 ## Getting Started
 Clone this repository:
 ```bash
