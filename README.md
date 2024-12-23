@@ -21,7 +21,7 @@ A simple memory card game built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-You can play the game [here]([https://wintermatchingcardgame.netlify.app/](https://wintermatchingcardgame.netlify.app/)).
+You can play the game [here](https://wintermatchingcardgame.netlify.app/).
 
 ## Getting Started
 Clone this repository:
