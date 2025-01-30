@@ -26,4 +26,4 @@ You can play the game [here](https://wintercardgame.netlify.app/).
 ## Getting Started
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/memory-card-game.git
+git clone https://github.com/ArvindeepSingh/memory-card-game.git
